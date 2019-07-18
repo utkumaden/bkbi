@@ -1,0 +1,10 @@
+G:\Bir Kelime Bir Islem\gamePrep\bin\Debug\Bir Kelime Bir İşlem.exe
+G:\Bir Kelime Bir Islem\gamePrep\bin\Debug\iConsoleLibrary.dll
+G:\Bir Kelime Bir Islem\gamePrep\bin\Debug\Bir Kelime Bir İşlem.pdb
+G:\Bir Kelime Bir Islem\gamePrep\bin\Debug\iConsoleLibrary.pdb
+G:\Bir Kelime Bir Islem\gamePrep\obj\Debug\gamePrep.csprojResolveAssemblyReference.cache
+G:\Bir Kelime Bir Islem\gamePrep\bin\Debug\oyunÜret.exe.config
+G:\Bir Kelime Bir Islem\gamePrep\bin\Debug\oyunÜret.exe
+G:\Bir Kelime Bir Islem\gamePrep\bin\Debug\oyunÜret.pdb
+G:\Bir Kelime Bir Islem\gamePrep\obj\Debug\oyunÜret.exe
+G:\Bir Kelime Bir Islem\gamePrep\obj\Debug\oyunÜret.pdb

@@ -1,0 +1,29 @@
+G:\Bir Kelime Bir Islem\oyunListe\bin\Debug\oyunListe.exe.config
+G:\Bir Kelime Bir Islem\oyunListe\bin\Debug\oyunListe.exe
+G:\Bir Kelime Bir Islem\oyunListe\bin\Debug\oyunListe.pdb
+G:\Bir Kelime Bir Islem\oyunListe\bin\Debug\Bir Kelime Bir İşlem.exe
+G:\Bir Kelime Bir Islem\oyunListe\bin\Debug\iConsoleLibrary.dll
+G:\Bir Kelime Bir Islem\oyunListe\bin\Debug\Bir Kelime Bir İşlem.pdb
+G:\Bir Kelime Bir Islem\oyunListe\bin\Debug\iConsoleLibrary.pdb
+G:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.Properties.Resources.resources
+G:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.csproj.GenerateResource.Cache
+G:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.exe
+G:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.pdb
+G:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.csprojResolveAssemblyReference.cache
+F:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.csprojResolveAssemblyReference.cache
+F:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.Properties.Resources.resources
+F:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.csproj.GenerateResource.Cache
+F:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.exe
+F:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.pdb
+E:\Bir Kelime Bir Islem\oyunListe\bin\Debug\oyunListe.exe.config
+E:\Bir Kelime Bir Islem\oyunListe\bin\Debug\oyunListe.exe
+E:\Bir Kelime Bir Islem\oyunListe\bin\Debug\oyunListe.pdb
+E:\Bir Kelime Bir Islem\oyunListe\bin\Debug\Bir Kelime Bir İşlem.exe
+E:\Bir Kelime Bir Islem\oyunListe\bin\Debug\iConsoleLibrary.dll
+E:\Bir Kelime Bir Islem\oyunListe\bin\Debug\Bir Kelime Bir İşlem.pdb
+E:\Bir Kelime Bir Islem\oyunListe\bin\Debug\iConsoleLibrary.pdb
+E:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.csprojResolveAssemblyReference.cache
+E:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.Properties.Resources.resources
+E:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.csproj.GenerateResource.Cache
+E:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.exe
+E:\Bir Kelime Bir Islem\oyunListe\obj\Debug\oyunListe.pdb

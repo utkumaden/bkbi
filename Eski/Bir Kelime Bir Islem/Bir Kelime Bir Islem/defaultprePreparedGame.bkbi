@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<prePreparedGame>
+  
+  <settings>
+    <arduino port="COM1"/>
+    <player who="P1" name="" points=""/>
+    <player who="P2" name="" points=""/>
+    <player who="P3" name="" points=""/>
+  </settings>
+
+  <game>
+    <word>partikül</word>
+    <equation sum="999">1,2,3,4,5,9</equation>
+  </game> 
+  
+</prePreparedGame>

@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>bkbi</name>
+    </assembly>
+    <members>
+        <member name="T:bkbi.Core.Player">
+            <summary>
+            A class made for representing players in the game.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.about.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.about.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.about.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.ControlPanel.Subs.buttonPressForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.Subs.buttonPressForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.Subs.buttonPressForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.ControlPanel.Subs.DisplaySelectDialogBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.Subs.DisplaySelectDialogBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.Subs.DisplaySelectDialogBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.ControlPanel.ControlPanel.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.ControlPanel.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.ControlPanel.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.ControlPanel.EquationAndWordUI.DictionaryWordPropertiesDialogBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.EquationAndWordUI.DictionaryWordPropertiesDialogBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.EquationAndWordUI.DictionaryWordPropertiesDialogBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.ControlPanel.EquationAndWordUI.UserEquationPropertiesDialogBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.EquationAndWordUI.UserEquationPropertiesDialogBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.EquationAndWordUI.UserEquationPropertiesDialogBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.ControlPanel.EquationAndWordUI.UserWordPropertiesDialogBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.EquationAndWordUI.UserWordPropertiesDialogBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.EquationAndWordUI.UserWordPropertiesDialogBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.ControlPanel.PlayerUI.changeNameForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.PlayerUI.changeNameForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.PlayerUI.changeNameForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.ControlPanel.PlayerUI.pointsMenuForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.PlayerUI.pointsMenuForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.PlayerUI.pointsMenuForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.ControlPanel.PlayerUI.SelectProfilePictureDialog.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.PlayerUI.SelectProfilePictureDialog.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.ControlPanel.PlayerUI.SelectProfilePictureDialog.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.Errors.ExceptionReporter.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.Errors.ExceptionReporter.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.Errors.ExceptionReporter.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:bkbi.Forms.ViewerPanel.ViewerPanel.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:bkbi.Forms.ViewerPanel.ViewerPanel.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:bkbi.Forms.ViewerPanel.ViewerPanel.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:bkbi.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:bkbi.Program.start(System.Boolean)">
+            <summary>
+            Function to start the program regularly
+            </summary>
+            <param name="debug">Run the program in debug mode?</param>
+        </member>
+        <member name="M:bkbi.Program.help(System.Boolean)">
+            <summary>
+            [CommandLine] Function Show Help Text
+            </summary>
+            <param name="debug">Run the program in debug mode? (Like there are things to debug...)</param>
+        </member>
+        <member name="M:bkbi.Program.ghelp(System.Boolean)">
+            <summary>
+            [GUI] Run the Help Dialog
+            </summary>
+            <param name="debug">Run the program in debug mode?</param>
+        </member>
+        <member name="M:bkbi.Program.version(System.Boolean)">
+            <summary>
+            [CommandLine] Write Version to commandline.
+            </summary>
+            <param name="debug">Run the program in debug mode?</param>
+        </member>
+        <member name="M:bkbi.Program.viewPrePreparedGame(System.String,System.Boolean)">
+            <summary>
+            [GUI] View the preprepared game.
+            </summary>
+            <param name="debug">Run the program in debug mode?</param>
+        </member>
+        <member name="M:bkbi.Program.startPrePreparedGame(System.String,System.Boolean)">
+            <summary>
+            [GUI] Run the prepepared game.
+            </summary>
+            <param name="debug">Run the program in debug mode?</param>
+        </member>
+        <member name="T:bkbi.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:bkbi.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:bkbi.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:bkbi.Properties.Resources.Doorbell">
+            <summary>
+              Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+            </summary>
+        </member>
+        <member name="P:bkbi.Properties.Resources.tık">
+            <summary>
+              Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+            </summary>
+        </member>
+    </members>
+</doc>

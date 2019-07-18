@@ -1,0 +1,11 @@
+<settings>
+  <arduino port="COM1" use="True" />
+  <prePreparedGameSettings use="True" />
+  <autogames use="False">
+  </autogames>
+  <addPointsSound type="2" mute="False">
+  </addPointsSound>
+  <animationSound type="2" mute="False">
+  </animationSound>
+  <time>30</time>
+</settings>

@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A46E2827-8CB7-439C-A3E1-F3EF0FD562BE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bir_Kelime_Bir_Islem</RootNamespace>
+    <AssemblyName>Bir Kelime Bir İşlem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>G:\Bir Kelime Bir Islem\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8CF43C1245BE7ECF62F4820E0243354E76D95AB8</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Bir Kelime Bir Islem_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="iConsoleLibrary">
+      <HintPath>C:\Users\utkumaden\Documents\Visual Studio 2015\Projects\iConsoleLibrary\iConsoleLibrary\bin\Debug\iConsoleLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\AddPoints\P1Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddPoints\P1Add.Designer.cs">
+      <DependentUpon>P1Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddPoints\P2Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddPoints\P2Add.Designer.cs">
+      <DependentUpon>P2Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddPoints\P3Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddPoints\P3Add.Designer.cs">
+      <DependentUpon>P3Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArduinoHandler.cs" />
+    <Compile Include="Forms\iExceptionReporter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\iExceptionReporter.Designer.cs">
+      <DependentUpon>iExceptionReporter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\itemShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\itemShow.Designer.cs">
+      <DependentUpon>itemShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\List\lister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\List\lister.Designer.cs">
+      <DependentUpon>lister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\List\silentPrePreparedGameHandler.cs" />
+    <Compile Include="Forms\Main\about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main\about.Designer.cs">
+      <DependentUpon>about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main\console.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main\console.Designer.cs">
+      <DependentUpon>console.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main\controlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main\controlForm.Designer.cs">
+      <DependentUpon>controlForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main\settingsGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main\settingsGUI.Designer.cs">
+      <DependentUpon>settingsGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main\viewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main\viewerForm.Designer.cs">
+      <DependentUpon>viewerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main\viewerWindowPlacer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main\viewerWindowPlacer.Designer.cs">
+      <DependentUpon>viewerWindowPlacer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubPoints\P1Sub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubPoints\P1Sub.Designer.cs">
+      <DependentUpon>P1Sub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubPoints\P2Sub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubPoints\P2Sub.Designer.cs">
+      <DependentUpon>P2Sub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubPoints\P3Sub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubPoints\P3Sub.Designer.cs">
+      <DependentUpon>P3Sub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timeKeeping.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Forms\Main\prePreparedPreparer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main\prePreparedPreparer.Designer.cs">
+      <DependentUpon>prePreparedPreparer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="prePreparedGameHandler.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="setting.cs" />
+    <EmbeddedResource Include="Forms\AddPoints\P1Add.resx">
+      <DependentUpon>P1Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddPoints\P2Add.resx">
+      <DependentUpon>P2Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddPoints\P3Add.resx">
+      <DependentUpon>P3Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\iExceptionReporter.resx">
+      <DependentUpon>iExceptionReporter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\itemShow.resx">
+      <DependentUpon>itemShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\List\lister.resx">
+      <DependentUpon>lister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main\about.resx">
+      <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main\console.resx">
+      <DependentUpon>console.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main\controlForm.resx">
+      <DependentUpon>controlForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main\settingsGUI.resx">
+      <DependentUpon>settingsGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main\viewerForm.resx">
+      <DependentUpon>viewerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main\viewerWindowPlacer.resx">
+      <DependentUpon>viewerWindowPlacer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubPoints\P1Sub.resx">
+      <DependentUpon>P1Sub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubPoints\P2Sub.resx">
+      <DependentUpon>P2Sub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubPoints\P3Sub.resx">
+      <DependentUpon>P3Sub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main\prePreparedPreparer.resx">
+      <DependentUpon>prePreparedPreparer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Bir Kelime Bir Islem_TemporaryKey.pfx" />
+    <None Include="defaultprePreparedGame.bkbi">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Forms\SetPoints\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="beep.wav" />
+    <None Include="done.wav" />
+    <Content Include="ico.ico" />
+    <Content Include="misc_menu_4.wav" />
+    <Content Include="settıngs.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="sfx.wav" />
+    <None Include="Wrong Buzzer.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <FileAssociation Include=".bkbi">
+      <Visible>False</Visible>
+      <Description>Bir Kelime Bir İşlem Hazır Oyun Dosyası</Description>
+      <Progid>Bir Kelime Bir İşlem Programı</Progid>
+      <DefaultIcon>ico.ico</DefaultIcon>
+    </FileAssociation>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

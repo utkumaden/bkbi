@@ -1,0 +1,103 @@
+c:\users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir Islem.csprojResolveAssemblyReference.cache
+c:\users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.controlForm.resources
+c:\users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.viewerForm.resources
+c:\users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Properties.Resources.resources
+c:\users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir Islem.csproj.GenerateResource.Cache
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.viewerWindowPlacer.resources
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.exe.config
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.exe
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.pdb
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.about.resources
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.exe
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.pdb
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P1Add.resources
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P2Add.resources
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P3Add.resources
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\sfx.wav
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P1Sub.resources
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P2Sub.resources
+C:\Users\utkumaden\documents\visual studio 2015\Projects\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P3Sub.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.exe.config
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.exe
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.pdb
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\iConsoleLibrary.pdb
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir Islem.csprojResolveAssemblyReference.cache
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P1Add.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P2Add.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P3Add.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.about.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.controlForm.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.Main.settingsGUI.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.viewerForm.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.viewerWindowPlacer.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P1Sub.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P2Sub.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P3Sub.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.prePreparedPreparer.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Properties.Resources.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir Islem.csproj.GenerateResource.Cache
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.exe
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.pdb
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.iExceptionReporter.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.itemShow.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.exe.config
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.exe.manifest
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.application
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.exe
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.pdb
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\iConsoleLibrary.dll
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\iConsoleLibrary.pdb
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P1Add.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P2Add.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P3Add.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.iExceptionReporter.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.itemShow.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.List.lister.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.about.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.Main.console.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.controlForm.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.Main.settingsGUI.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.viewerForm.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.viewerWindowPlacer.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P1Sub.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P2Sub.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P3Sub.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.prePreparedPreparer.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Properties.Resources.resources
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir Islem.csproj.GenerateResource.Cache
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.exe.manifest
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.application
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.exe
+G:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.pdb
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.List.lister.resources
+F:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.Main.console.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.exe.config
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.exe
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.pdb
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.exe.manifest
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.application
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.exe
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\Bir Kelime Bir İşlem.pdb
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\iConsoleLibrary.dll
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\bin\Debug\iConsoleLibrary.pdb
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir Islem.csprojResolveAssemblyReference.cache
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P1Add.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P2Add.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.AddPoints.P3Add.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.iExceptionReporter.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.itemShow.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.List.lister.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.about.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.Main.console.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.controlForm.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.Main.settingsGUI.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.viewerForm.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.viewerWindowPlacer.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P1Sub.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P2Sub.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Forms.SubPoints.P3Sub.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.prePreparedPreparer.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir_Kelime_Bir_Islem.Properties.Resources.resources
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir Islem.csproj.GenerateResource.Cache
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.exe.manifest
+E:\Bir Kelime Bir Islem\Bir Kelime Bir Islem\obj\Debug\Bir Kelime Bir İşlem.application

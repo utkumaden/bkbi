@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <files>
+    <cmdHistoryLocation>.\iConsole\cmdHistory.txt</cmdHistoryLocation>
+    <consoleDumpLocation>.\iConsole\consoleDump.txt</consoleDumpLocation>
+  </files>
+  <setting>
+    <autoclear>False</autoclear>
+    <autoScroll>True</autoScroll>
+    <timestamps>True</timestamps>
+  </setting>
+  <style type="default">
+    <FG>LightGray</FG>
+    <BG>Black</BG>
+    <font>Verdana; 11pt</font>
+  </style>
+  <style type="error">
+    <FG>Red</FG>
+    <BG>Black</BG>
+    <font>Verdana; 11pt</font>
+  </style>
+  <style type="highlight">
+    <FG>Yellow</FG>
+    <BG>Black</BG>
+    <font>Verdana; 11pt</font>
+  </style>
+  <fine />
+</xml>
